@@ -16,6 +16,8 @@ sudo apt install docker.io -y
 sudo usermod -aG docker ubuntu
 sudo systemctl enable --now docker 
 
+#Install deez nuts
+
 # Wait for Docker to initialize
 sleep 10
 
